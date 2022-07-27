@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2019/06/sb-blog-digital-designer.png)
 <h1 align="center">Hi 👋, I'm Henok Assefa</h1>
 <h3 align="center">An aspiring Software Engineer[SE] from Ethiopia</h3>
-<img align="right" alt="Coding" width="400" src="https://https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
 
 <p align="left"> <a href="https://twitter.com/henicodes" target="blank"><img src="https://img.shields.io/twitter/follow/henicodes?logo=twitter&style=for-the-badge" alt="henicodes" /></a> </p>
 

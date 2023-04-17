@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/henicodes" target="blank"><img src="https://img.shields.io/twitter/follow/henicodes?logo=twitter&style=for-the-badge" alt="henicodes" /></a> </p>
 
-- 🔭 I’m currently working on **C and python projects**
+- 🔭 I’m currently working on **ALX SE Program Webstack - Portfolio Project**
 
-- 🌱 I’m currently learning **C and Python**
+- 🌱 I’m currently learning **react**
 
 - 📫 How to reach me **henicodes@gmail.com**
 

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ALX SE Program Webstack - Portfolio Project**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Front-end - React**
 
 - 📫 How to reach me **henicodes@gmail.com**
 
